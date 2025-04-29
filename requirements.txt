@@ -1,0 +1,5 @@
+PyQt6>=6.5.0
+pillow>=9.0.0
+cryptography>=40.0.0
+qrcode>=7.3.1
+pyperclip>=1.8.2 
